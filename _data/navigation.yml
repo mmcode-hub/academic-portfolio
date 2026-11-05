@@ -1,0 +1,37 @@
+main:
+
+  - title: "Home"
+    url: /
+
+  - title: "Qualifications"
+    url: /pages/qualifications/
+
+  - title: "Experience"
+    url: /pages/experience/
+
+  - title: "Research & Publications"
+    url: /pages/publications/
+    children:
+      - title: "Journal Publications"
+        url: /pages/publications/#journals
+
+      - title: "Conference Publications"
+        url: /pages/publications/#conferences
+
+      - title: "Research Areas"
+        url: /pages/publications/#research
+
+  - title: "Speaker / Resource Person"
+    url: /pages/speaker/
+
+  - title: "Books"
+    url: /pages/books/
+
+  - title: "Other Activities"
+    url: /pages/activities/
+
+  - title: "Articles"
+    url: /pages/articles/
+
+  - title: "Contact"
+    url: /pages/contact/
