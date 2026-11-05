@@ -1,37 +1,43 @@
 main:
-
-  - title: "Home"
-    url: /
-
-  - title: "Qualifications"
+  - title: "About Me"
     url: /pages/qualifications/
+    children:
+      - title: "Qualifications"
+        url: /pages/qualifications/
+      - title: "Experience"
+        url: /pages/experience/
+      - title: "Academic Experience"
+        url: /pages/academic-experience/
+      - title: "Administrative Experience"
+        url: /pages/administrative-experience/
+      - title: "Other Experience"
+        url: /pages/other-experience/
 
-  - title: "Experience"
-    url: /pages/experience/
-
-  - title: "Research & Publications"
+  - title: "Research"
     url: /pages/publications/
     children:
-      - title: "Journal Publications"
-        url: /pages/publications/#journals
-
-      - title: "Conference Publications"
-        url: /pages/publications/#conferences
-
       - title: "Research Areas"
-        url: /pages/publications/#research
+        url: /pages/research-areas/
+      - title: "Publications"
+        url: /pages/publications/
 
-  - title: "Speaker / Resource Person"
-    url: /pages/speaker/
+  - title: "Teaching"
+    url: /pages/teaching/
 
-  - title: "Books"
-    url: /pages/books/
-
-  - title: "Other Activities"
-    url: /pages/activities/
-
-  - title: "Articles"
-    url: /pages/articles/
+  - title: "Services"
+    url: /pages/services/
+    children:
+      - title: "Professional Bodies"
+        url: /pages/professional-bodies/
+      - title: "Journal Reviewer"
+        url: /pages/journal-reviewer/
+      - title: "Community"
+        url: /pages/community/
+      - title: "Awards / Recognition"
+        url: /pages/awards/
 
   - title: "Contact"
     url: /pages/contact/
+
+  - title: "Gallery"
+    url: /pages/gallery/
