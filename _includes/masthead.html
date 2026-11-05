@@ -1,0 +1,108 @@
+{% assign navigation = site.data.navigation.main %}
+
+<header class="custom-masthead">
+  <div class="custom-masthead__inner">
+
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+
+    <button class="custom-menu-toggle"
+            aria-label="Toggle navigation"
+            aria-expanded="false"
+            aria-controls="custom-navigation">
+      ☰
+    </button>
+
+    <nav id="custom-navigation" class="custom-navigation"
+         aria-label="Main navigation">
+
+      <ul class="custom-navigation__list">
+
+        {% for item in navigation %}
+
+        <li class="custom-navigation__item
+                   {% if item.children %}has-dropdown{% endif %}">
+
+          <a href="{{ item.url | relative_url }}"
+             class="custom-navigation__link"
+             {% if item.children %}
+             aria-haspopup="true"
+             aria-expanded="false"
+             {% endif %}>
+
+            {{ item.title }}
+
+            {% if item.children %}
+              <span class="dropdown-arrow">▼</span>
+            {% endif %}
+
+          </a>
+
+          {% if item.children %}
+
+          <ul class="custom-dropdown">
+
+            {% for child in item.children %}
+
+            <li>
+              <a href="{{ child.url | relative_url }}">
+                {{ child.title }}
+              </a>
+            </li>
+
+            {% endfor %}
+
+          </ul>
+
+          {% endif %}
+
+        </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </nav>
+
+  </div>
+</header>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const menuToggle = document.querySelector(".custom-menu-toggle");
+  const navigation = document.querySelector(".custom-navigation");
+
+  menuToggle.addEventListener("click", function () {
+
+    const expanded =
+      menuToggle.getAttribute("aria-expanded") === "true";
+
+    menuToggle.setAttribute("aria-expanded", !expanded);
+    navigation.classList.toggle("is-open");
+
+  });
+
+  document.querySelectorAll(".has-dropdown > a").forEach(function (link) {
+
+    link.addEventListener("click", function (event) {
+
+      if (window.innerWidth <= 900) {
+
+        event.preventDefault();
+
+        const parent = link.parentElement;
+        const expanded = link.getAttribute("aria-expanded") === "true";
+
+        link.setAttribute("aria-expanded", !expanded);
+        parent.classList.toggle("dropdown-open");
+
+      }
+
+    });
+
+  });
+
+});
+</script>
