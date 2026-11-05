@@ -1,0 +1,95 @@
+# ==========================================
+# MuralisVault Academic Portfolio
+# Jekyll Configuration
+# ==========================================
+
+# Website information
+
+title: "MuralisVault | Academic Portfolio"
+
+name: "Muralidharan Murugesan"
+
+description: >-
+  Academic and professional portfolio of
+  Muralidharan Murugesan, covering qualifications,
+  teaching experience, research publications,
+  books, invited lectures and professional activities.
+
+locale: "en-IN"
+
+repository: "mmcode-hub/academic-portfolio"
+
+# Temporary GitHub Pages address
+
+url: "https://mmcode-hub.github.io"
+
+baseurl: "/academic-portfolio"
+
+# Theme configuration
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+minimal_mistakes_skin: "air"
+
+# Plugins
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Website settings
+
+search: true
+
+breadcrumbs: true
+
+show_date: false
+
+# Author information
+
+author:
+  name: "Muralidharan Murugesan"
+  bio: "Academic Professional | Computer Science"
+  location: "India"
+  avatar: "/assets/images/profile.jpg"
+
+# Social media configuration
+
+social:
+  type: Person
+  name: "Muralidharan Murugesan"
+
+# Include pages directory
+
+include:
+  - _pages
+
+# Default page layout
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Time zone
+
+timezone: Asia/Kolkata
+
+# Markdown settings
+
+markdown: kramdown
+
+highlighter: rouge
+
+# Exclude unnecessary files
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
