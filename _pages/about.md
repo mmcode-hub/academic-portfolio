@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 permalink: /pages/about/
+layout: three-column
 author_profile: true
 ---
 
