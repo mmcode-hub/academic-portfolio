@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Prelude"
 permalink: /pages/about/
 layout: three-column
 author_profile: true
