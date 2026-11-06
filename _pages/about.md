@@ -4,7 +4,13 @@ permalink: /pages/about/
 layout: three-column
 author_profile: true
 ---
-
+<div class="section-navigation">
+  <a href="{{ '/pages/qualifications/' | relative_url }}">Qualifications</a>
+  <a href="{{ '/pages/experience/' | relative_url }}">Experience</a>
+  <a href="{{ '/pages/academic-experience/' | relative_url }}">Academic Experience</a>
+  <a href="{{ '/pages/administrative-experience/' | relative_url }}">Administrative Experience</a>
+  <a href="{{ '/pages/other-experience/' | relative_url }}">Other Experience</a>
+</div>
 ## Welcome
 
 Dr. Muralidharan Murugesan is an educator, researcher, and software developer
