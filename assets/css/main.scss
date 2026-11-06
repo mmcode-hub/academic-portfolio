@@ -189,91 +189,7 @@
     padding-left: 30px;
   }
 }
-  /* ==========================================
-   Three-column About Me page layout
-   ========================================== */
 
-.three-column-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
-  gap: 30px;
-  width: 100%;
-  align-items: start;
-}
-
-/* Centre content */
-
-.three-column-main {
-  min-width: 0;
-}
-
-/* Right sidebar */
-
-.three-column-sidebar {
-  min-width: 0;
-}
-
-/* Explore portfolio panel */
-
-.explore-portfolio {
-  background: #f3f6fa;
-  border: 1px solid #dce3eb;
-  border-radius: 8px;
-  padding: 18px;
-  margin-top: 10px;
-}
-
-.explore-portfolio h3 {
-  color: #17365d;
-  font-size: 1.2rem;
-  border-bottom: 2px solid #17365d;
-  padding-bottom: 10px;
-  margin-top: 0;
-}
-
-.explore-section {
-  margin-bottom: 18px;
-}
-
-.explore-section h4 {
-  color: #245580;
-  font-size: 1rem;
-  margin-bottom: 7px;
-}
-
-.explore-section ul {
-  margin-left: 18px;
-  padding-left: 0;
-}
-
-.explore-section li {
-  margin-bottom: 6px;
-  font-size: 0.9rem;
-}
-
-.explore-section a {
-  color: #245580;
-  text-decoration: none;
-}
-
-.explore-section a:hover {
-  color: #007c91;
-  text-decoration: underline;
-}
-
-/* Responsive layout for tablets and mobile */
-
-@media (max-width: 900px) {
-
-  .three-column-layout {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-
-  .three-column-sidebar {
-    width: 100%;
-  }
-}
  
   /* Section Navigation Buttons */
 
@@ -302,6 +218,6 @@
   color: #ffffff !important;
 }
 
-11111
+
 
 
