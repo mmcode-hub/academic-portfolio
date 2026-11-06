@@ -274,44 +274,32 @@
     width: 100%;
   }
 
-  /* ==========================================
-   Section Navigation Buttons
-   ========================================== */
+ 
+  /* Section Navigation Buttons */
 
-.section-navigation {
-  display: flex;
+.page__content .section-navigation {
+  display: flex !important;
   flex-wrap: wrap;
   gap: 10px;
   margin: 20px 0 30px 0;
 }
 
-.section-navigation a {
-  display: inline-block;
-  background-color: #17365d;
+.page__content .section-navigation a {
+  display: inline-block !important;
+  background: #17365d !important;
   color: #ffffff !important;
   padding: 10px 16px;
-  border-radius: 6px;
+  border: 1px solid #17365d;
+  border-radius: 8px !important;
   text-decoration: none !important;
   font-size: 0.9rem;
   font-weight: 600;
-  transition: background-color 0.3s ease;
 }
 
-.section-navigation a:hover {
-  background-color: #007c91;
+.page__content .section-navigation a:hover {
+  background: #007c91 !important;
+  border-color: #007c91;
   color: #ffffff !important;
 }
-
-@media (max-width: 600px) {
-  .section-navigation {
-    gap: 8px;
-  }
-
-  .section-navigation a {
-    padding: 9px 12px;
-    font-size: 0.85rem;
-  }
-}
-
 
 }
