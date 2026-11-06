@@ -1,7 +1,7 @@
 ---
-title: "Prelude"
+title: "About Me"
 permalink: /pages/about/
-layout: three-column
+layout: Single
 author_profile: true
 ---
 <div class="section-navigation">
