@@ -218,5 +218,25 @@
   color: #ffffff !important;
 }
 
+/* Improve visibility of the left profile column */
+.author__name,
+.author__bio,
+.author__content,
+.author__content p,
+.author__urls,
+.author__urls a,
+.author__urls .label {
+  color: #111111 !important;
+  font-weight: 600 !important;
+}
+
+.author__name {
+  font-weight: 700 !important;
+}
+
+.author__urls a:hover {
+  color: #007c91 !important;
+}
+
 
 
