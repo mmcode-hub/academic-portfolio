@@ -56,6 +56,27 @@ author:
   location: "India"
   avatar: "/assets/images/profile.jpg"
 
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/muralitalks/"
+
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/muralioff"
+
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/muralinehru"
+
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/muralioff"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mmezhind@gmail.com"
+
 # Social media configuration
 
 social:
