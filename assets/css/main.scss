@@ -244,5 +244,28 @@ p.author__bio {
   font-weight: 700 !important;
 }
 
+/* Improve About Me content readability */
+
+.page__content p {
+  line-height: 1.7;
+  margin-bottom: 1.5em;
+}
+
+.page__content h2 {
+  color: #17365d;
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid #dce3eb;
+}
+
+.page__content h3 {
+  color: #245580;
+  font-weight: 700;
+  margin-top: 1.4em;
+}
+
 
 
