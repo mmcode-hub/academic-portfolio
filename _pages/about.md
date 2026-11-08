@@ -4,12 +4,18 @@ permalink: /pages/about/
 layout: Single
 author_profile: true
 ---
-<div class="section-navigation">
-  <a href="{{ '/pages/qualifications/' | relative_url }}">Qualifications</a>
-  <a href="{{ '/pages/experience/' | relative_url }}">Experience</a>
-  <a href="{{ '/pages/academic-experience/' | relative_url }}">Academic Experience</a>
-  <a href="{{ '/pages/administrative-experience/' | relative_url }}">Administrative Experience</a>
-  <a href="{{ '/pages/other-experience/' | relative_url }}">Other Experience</a>
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin:20px 0 30px 0;">
+
+  <a href="{{ '/pages/qualifications/' | relative_url }}" style="display:inline-block; background:#17365d; color:white; padding:10px 16px; border-radius:8px; text-decoration:none; font-size:15px; font-weight:600;">Qualifications</a>
+
+  <a href="{{ '/pages/experience/' | relative_url }}" style="display:inline-block; background:#17365d; color:white; padding:10px 16px; border-radius:8px; text-decoration:none; font-size:15px; font-weight:600;">Experience</a>
+
+  <a href="{{ '/pages/academic-experience/' | relative_url }}" style="display:inline-block; background:#17365d; color:white; padding:10px 16px; border-radius:8px; text-decoration:none; font-size:15px; font-weight:600;">Academic Experience</a>
+
+  <a href="{{ '/pages/administrative-experience/' | relative_url }}" style="display:inline-block; background:#17365d; color:white; padding:10px 16px; border-radius:8px; text-decoration:none; font-size:15px; font-weight:600;">Administrative Experience</a>
+
+  <a href="{{ '/pages/other-experience/' | relative_url }}" style="display:inline-block; background:#17365d; color:white; padding:10px 16px; border-radius:8px; text-decoration:none; font-size:15px; font-weight:600;">Other Experience</a>
+
 </div>
 ## Welcome
 
