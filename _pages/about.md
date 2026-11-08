@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /pages/about/
-layout: Single
+layout: single
 author_profile: true
 ---
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin:20px 0 30px 0;">
