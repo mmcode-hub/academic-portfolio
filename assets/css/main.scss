@@ -237,6 +237,12 @@
 .author__urls a:hover {
   color: #007c91 !important;
 }
+/* Emphasise academic designation */
+.author__bio,
+p.author__bio {
+  color: #333333 !important;
+  font-weight: 700 !important;
+}
 
 
 
