@@ -4,20 +4,22 @@ permalink: /pages/experience/
 author_profile: true
 ---
 
-## Professional Career
+# Professional Experience
 
-Details of my professional career will be presented here.
+My professional journey in higher education spans more than 35 years, beginning as a Lecturer in Computer Science and culminating in my retirement as Associate Professor and Head of the Department of Computer Science. I continue to contribute to education through freelance teaching, educational content development and related academic activities.
 
-## Teaching Experience
+## Academic Career
 
-Details of my teaching experience and subjects handled.
+**6 November 1987 – 31 May 2023**
 
-## Academic Responsibilities
+Joined the Department of Computer Science as a Lecturer on 6 November 1987. Over the course of my academic career, I served the institution in various academic and administrative capacities and retired from service as Associate Professor and Head of the Department of Computer Science at **Nehru Memorial College, Puthanampatti, Tiruchirappalli – 621 007**.
 
-Details of academic administration, departmental
-responsibilities and other contributions.
+Institutional Website: [Nehru Memorial College](https://www.nmc.ac.in)
 
-## Professional Development
+## Professional Activities After Retirement
 
-Details of workshops, seminars, conferences and
-faculty development programmes attended.
+### Freelance Teacher, Educator and E-content Developer
+
+**Since 1 June 2023**
+
+Continuing my involvement in education as a freelance teacher, educator and e-content developer, with an interest in academic teaching, digital learning resources and educational content development.
