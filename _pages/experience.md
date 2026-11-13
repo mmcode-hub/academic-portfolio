@@ -4,7 +4,7 @@ permalink: /pages/experience/
 author_profile: true
 ---
 
-# Professional Experience
+
 
 My professional journey in higher education spans more than 35 years, beginning as a Lecturer in Computer Science and culminating in my retirement as Associate Professor and Head of the Department of Computer Science. I continue to contribute to education through freelance teaching, educational content development and related academic activities.
 
