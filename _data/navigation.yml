@@ -18,6 +18,8 @@ main:
     children:
       - title: "Research Areas"
         url: /pages/research-areas/
+      - title: "Journal Reviewer"
+        url: /pages/journal-reviewer/
       - title: "Publications"
         url: /pages/publications/
 
@@ -29,8 +31,8 @@ main:
     children:
       - title: "Professional Bodies"
         url: /pages/professional-bodies/
-      - title: "Journal Reviewer"
-        url: /pages/journal-reviewer/
+      - title: "Resource Person"
+        url: /pages/resource-person/
       - title: "Community"
         url: /pages/community/
       - title: "Awards / Recognition"
