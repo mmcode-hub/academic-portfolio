@@ -1,6 +1,6 @@
 main:
   - title: "About Me"
-    url: /pages/qualifications/
+    url: /pages/about/
     children:
       - title: "Qualifications"
         url: /pages/qualifications/
