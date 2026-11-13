@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# Muralidharan Murugesan
 
 ## Academic and Professional Portfolio
 
@@ -20,43 +19,3 @@ teaching, research, emerging technologies and educational
 resource development.
 
 ---
-
-## Explore My Portfolio
-
-### Academic Qualifications
-
-Information about my educational qualifications,
-certifications and academic achievements.
-
-[View Qualifications]({{ '/pages/qualifications/' | relative_url }})
-
-### Professional Experience
-
-My professional career, teaching experience and
-academic responsibilities.
-
-[View Experience]({{ '/pages/experience/' | relative_url }})
-
-### Research and Publications
-
-Research papers, conference publications and other
-academic contributions.
-
-[Explore Publications]({{ '/pages/publications/' | relative_url }})
-
-### Speaker and Resource Person
-
-Details of workshops, seminars, invited lectures and
-faculty development programmes.
-
-[View Activities]({{ '/pages/speaker/' | relative_url }})
-
-### Books Published
-
-Information about books authored and co-authored.
-
-[Explore Books]({{ '/pages/books/' | relative_url }})
-
----
-
-[Visit MuralisVault](https://muralisvault.in)
