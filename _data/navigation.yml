@@ -25,6 +25,13 @@ main:
 
   - title: "Teaching"
     url: /pages/teaching/
+    children:
+      - title: "Orientation and Refresher Programmes attended"
+        url: /pages/Orientation-Refresher/
+      - title: "Seminar/Conferences Attended"
+        url: /pages/Conferences/
+      - title: "Programmes organized"
+        url: /pages/programmes-organized/
 
   - title: "Services"
     url: /pages/services/
