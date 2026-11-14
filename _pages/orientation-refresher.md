@@ -1,28 +1,26 @@
 ---
-title: "Orientation – Refresher Programmes"
+title: "Faculty Development Programmes"
 permalink: /pages/orientation-refresher/
 layout: single
 author_profile: true
 ---
 
-# Orientation, Refresher Courses and Faculty Development Programmes
-
-Throughout my academic career, I have participated in various Orientation Programmes, Refresher Courses and Faculty Development Programmes to update my knowledge, strengthen professional competencies and keep abreast of emerging developments in higher education and technology.
+**"Learn, Unlearn and Relearn"** is a guiding philosophy that every educator should embrace. Throughout my academic career, I have actively participated in various knowledge-enhancement programmes, including Orientation Programmes, Refresher Courses, and Faculty Development Programmes (FDPs). These initiatives have played a significant role in updating my knowledge, enhancing my professional competencies, and keeping me abreast of the latest technological advancements and emerging trends in the field of Computer Science.
 
 ## 1. General Orientation Programmes
 
-- **General Orientation Programme** – Madras School of Social Work, 30 November–12 December 1992.
-- **General Orientation Programme** – Bharathidasan University, 23 August 2017.
+- Madras School of Social Work [1992].
+- Bharathidasan University [2017].
 
 ## 2. Refresher Courses
 
-- **Refresher Course** – Madras School of Social Work, 09–14 August 1993.
-- **Refresher Course** – Central University of Hyderabad, 23 August–10 September 1993.
-- **Refresher Course** – Nehru Memorial College, 25 May–14 June 2000.
-- **Refresher Course** – Bharathiar University, 17 November–07 December 2017.
-- **Refresher Course** – University of Madras, 09–29 November 2018.
+- Madras School of Social Work [1993].
+- Central University of Hyderabad [1993].
+- Nehru Memorial College [2000].
+- Bharathiar University [2017].
+- University of Madras [2018].
 
-## 3. AICTE-ATAL Faculty Development Programmes
+## 3. AICTE-ATAL Faculty Development Programmes (online)
 
-- **Basic Course in Smartphone Journalism** – AICTE-ATAL Faculty Development Programme, Film and Television Institute of India (FTII), Pune, 06–10 September 2021 (Online).
-- **Artificial Intelligence in Teaching and Learning** – AICTE-ATAL Faculty Development Programme, Central University, Tiruvarur, 22–26 November 2021 (Online).
+- **Basic Course in Smartphone Journalism** – Film and Television Institute of India (FTII), Pune [2021].
+- **Artificial Intelligence in Teaching and Learning** – Central University, Tiruvarur [2021].
