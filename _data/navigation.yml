@@ -52,5 +52,5 @@ main:
     url: /pages/gallery/
     children:
       - title: "Professional Bodies"
-        url: /pages/gallery-academic-activities/
+        url: /pages/academic-activities/
       
