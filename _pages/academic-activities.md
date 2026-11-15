@@ -1,6 +1,6 @@
 ---
 title: "Academic Activities"
-permalink: /pages/gallery/gallery-academic-activities/
+permalink: /pages/gallery/academic-activities/
 layout: single
 author_profile: true
 ---
