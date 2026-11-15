@@ -38,7 +38,7 @@ main:
     children:
       - title: "Professional Bodies"
         url: /pages/professional-bodies/
-      - title: "Resource Person"
+      - title: "Talks"
         url: /pages/resource-person/
       - title: "Community"
         url: /pages/community/
