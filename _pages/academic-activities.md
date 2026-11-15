@@ -11,14 +11,14 @@ Photographs capturing my participation in academic events, conferences and insti
 
   <div class="gallery-item">
     <a href="https://drive.google.com/file/d/1Sws89qSQa6qqonUXL51I1Lewar5iKRWy/view" target="_blank" rel="noopener">
-      <img src="https://lh3.googleusercontent.com/d/1Sws89qSQa6qqonUXL51I1Lewar5iKRWy" alt="ASD Conference 2017">
+     <img src="https://drive.google.com/uc?export=view&id=1Sws89qSQa6qqonUXL51I1Lewar5iKRWy" alt="ASD Conference 2017">
     </a>
     <p>ASD Conference 2017</p>
   </div>
 
   <div class="gallery-item">
     <a href="https://drive.google.com/file/d/1YYvV5mf0RZOdvq-RKmQ1aMfoQRLJFu_L/view" target="_blank" rel="noopener">
-      <img src="https://lh3.googleusercontent.com/d/1YYvV5mf0RZOdvq-RKmQ1aMfoQRLJFu_L" alt="ThinkQuest 2017">
+      <img src="https://drive.google.com/uc?export=view&id=1YYvV5mf0RZOdvq-RKmQ1aMfoQRLJFu_L" alt="ThinkQuest 2017">
     </a>
     <p>ThinkQuest 2017</p>
   </div>
