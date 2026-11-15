@@ -7,22 +7,18 @@ author_profile: true
 
 Photographs capturing my participation in academic events, conferences and institutional activities.
 
-<div class="academic-gallery">
+<div class="gallery-item">
+  <a href="{{ '/assets/images/gallery/asd-conference-2017.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/gallery/asd-conference-2017.jpg' | relative_url }}" alt="ASD Conference 2017">
+  </a>
+  <p>ASD Conference 2017</p>
+</div>
 
-  <div class="gallery-item">
-    <a href="https://drive.google.com/file/d/1Sws89qSQa6qqonUXL51I1Lewar5iKRWy/view" target="_blank" rel="noopener">
-     <img src="https://drive.google.com/uc?export=view&id=1Sws89qSQa6qqonUXL51I1Lewar5iKRWy" alt="ASD Conference 2017">
-    </a>
-    <p>ASD Conference 2017</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="https://drive.google.com/file/d/1YYvV5mf0RZOdvq-RKmQ1aMfoQRLJFu_L/view" target="_blank" rel="noopener">
-      <img src="https://drive.google.com/uc?export=view&id=1YYvV5mf0RZOdvq-RKmQ1aMfoQRLJFu_L" alt="ThinkQuest 2017">
-    </a>
-    <p>ThinkQuest 2017</p>
-  </div>
-
+<div class="gallery-item">
+  <a href="{{ '/assets/images/gallery/thinkquest-2017.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/gallery/thinkquest-2017.jpg' | relative_url }}" alt="ThinkQuest 2017">
+  </a>
+  <p>ThinkQuest 2017</p>
 </div>
 
 <p class="gallery-copyright">
