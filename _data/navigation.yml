@@ -50,7 +50,7 @@ main:
 
   - title: "Gallery"
     url: /pages/gallery/
-    
-  - title: "Academic Activties"
-    url: /pages/gallery/academic-activities/
+    children:
+      - title: "Academic Activties"
+        url: /pages/gallery/academic-activities/
       
